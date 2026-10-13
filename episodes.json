@@ -334,5 +334,52 @@
     ],
     "location": "Ghana, Schweiz",
     "sourceUrl": "https://www.tvdigital.de/tv-programm/goodbye-deutschland-die-auswanderer-auswandern-aus-liebe/bid_203693868/"
+  },
+  {
+    "id": "tvdigital-s10e5-20260608",
+    "title": "Hochzeit unter Palmen",
+    "season": 10,
+    "episode": 5,
+    "status": "uncertain",
+    "description": "Vier Hochzeitsplanerinnen begleiten Hochzeiten in der Türkei, auf Kreta und auf Mallorca. Gabi organisiert die Trauung von Nadin und Riccardo, Annika und Carolin begleiten Andra und Or, und bei Petra und Dirk auf Mallorca droht Regen.",
+    "people": [
+      "Gabi",
+      "Nadin",
+      "Riccardo",
+      "Annika",
+      "Carolin",
+      "Andra",
+      "Or",
+      "Petra",
+      "Dirk",
+      "Claudia Runggaldier"
+    ],
+    "location": "Türkei, Kreta, Mallorca",
+    "firstAirDate": "2026-06-08",
+    "sourceUrl": "https://www.tvdigital.de/tv-programm/goodbye-deutschland-die-auswanderer-hochzeit-unter-palmen/bid_203107105/"
+  },
+  {
+    "id": "tvdigital-s11e4-20260612",
+    "title": "Von Schnitzelhaus bis Horrorfilm: Träume in den USA",
+    "season": 11,
+    "episode": 4,
+    "status": "uncertain",
+    "description": "Titel und Nummerierung im TV-Digital-Programm verzeichnet. Eine ausführliche individuell geprüfte Beschreibung fehlt.",
+    "people": [],
+    "location": "USA",
+    "firstAirDate": "2026-06-12",
+    "sourceUrl": "https://www.tvdigital.de/tv-programm/goodbye-deutschland-die-auswanderer-hochzeit-unter-palmen/bid_203107105/"
+  },
+  {
+    "id": "tvdigital-s7e1-20260614",
+    "title": "Viva Mallorca!",
+    "season": 7,
+    "episode": 1,
+    "status": "uncertain",
+    "description": "Staffel- und Episodenkennung sowie Titel im TV-Digital-Sendeplan nachgewiesen; konkrete Inhalte noch nicht geprüft.",
+    "people": [],
+    "location": "Mallorca",
+    "firstAirDate": "2026-06-14",
+    "sourceUrl": "https://www.tvdigital.de/tv-programm/goodbye-deutschland-die-auswanderer-hochzeit-unter-palmen/bid_203107105/"
   }
 ]
