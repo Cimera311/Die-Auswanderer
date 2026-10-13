@@ -117,7 +117,7 @@
     "description": "Als S14 E13 im VOX-Programm vom 15.05.2026 dokumentiert. Eine zuverlässige individuelle Inhaltsbeschreibung liegt derzeit nicht vor; Erstausstrahlung ungeprüft.",
     "people": [],
     "location": "Kanaren",
-    "sourceUrl": "https://www.tvdigital.de/tv-programm/das-perfekte-dinner-tag-5-jessica-kiel/bid_202698837/"
+    "sourceUrl": "https://www.tvdigital.de/tv-programm/goodbye-deutschland-die-auswanderer-nicht-ohne-mein-kind/bid_202577292/"
   },
   {
     "id": "tvdigital-s14e15-20260605",
@@ -381,5 +381,44 @@
     "location": "Mallorca",
     "firstAirDate": "2026-06-14",
     "sourceUrl": "https://www.tvdigital.de/tv-programm/goodbye-deutschland-die-auswanderer-hochzeit-unter-palmen/bid_203107105/"
+  },
+  {
+    "id": "tvdigital-s10e24",
+    "season": 10,
+    "episode": 24,
+    "title": "Lieben und Leiden – Zwischen Vatersuche und Liebeskummer",
+    "status": "uncertain",
+    "description": "Titel und Staffel-/Folgenkennung in der Rubrik „Weitere Sendungen“ auf TV Digital dokumentiert. Individuelle Beschreibung noch nicht gesichert.",
+    "people": [],
+    "location": "",
+    "sourceUrl": "https://www.tvdigital.de/tv-programm/goodbye-deutschland-die-auswanderer-kenia-kinderwunsch-bei-kai-sansibar-drama-um-jennys-tierrettungsstation/bid_203164324/",
+    "firstAirDate": "2026-05-11"
+  },
+  {
+    "id": "tvdigital-s10e27",
+    "season": 10,
+    "episode": 27,
+    "title": "Zwischen Mut und Sorge unter der Sonne",
+    "status": "uncertain",
+    "description": "Kennung und Titel im Abschnitt „Weitere Sendungen“ einer TV-Digital-Folgenseite aufgeführt; individuelle Episodenbeschreibung fehlt.",
+    "people": [],
+    "location": "",
+    "sourceUrl": "https://www.tvdigital.de/tv-programm/goodbye-deutschland-die-auswanderer-nicht-ohne-mein-kind/bid_202577292/",
+    "firstAirDate": "2026-05-18"
+  },
+  {
+    "id": "tvdigital-s17e7",
+    "season": 17,
+    "episode": 7,
+    "title": "Kanada: Alexander und Melanie",
+    "status": "uncertain",
+    "description": "Alexander Mejuto möchte seine Karriere als Profibodybuilder in Kanada voranbringen und seiner Partnerin Melanie einen Heiratsantrag machen.",
+    "people": [
+      "Alexander Mejuto",
+      "Melanie"
+    ],
+    "location": "Kanada",
+    "sourceUrl": "https://www.tvdigital.de/tv-programm/goodbye-deutschland-die-auswanderer-kanada-alexander-und-melanie/bid_197616912/",
+    "firstAirDate": "2025-06-16"
   }
 ]
