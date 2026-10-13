@@ -106,5 +106,64 @@
     ],
     "location": "Sansibar, Costa Rica",
     "sourceUrl": "https://tvdirekt.dcmepgsued.de/tv-programm/sendungsdetails/205242810/goodbye-deutschland-die-auswanderer.html"
+  },
+  {
+    "id": "tvdigital-s14e13-20260515",
+    "title": "Kanaren: Neue Geschäftsmodelle und gescheiterte Beziehungen",
+    "firstAirDate": "2026-05-15",
+    "season": 14,
+    "episode": 13,
+    "status": "uncertain",
+    "description": "Als S14 E13 im VOX-Programm vom 15.05.2026 dokumentiert. Eine zuverlässige individuelle Inhaltsbeschreibung liegt derzeit nicht vor; Erstausstrahlung ungeprüft.",
+    "people": [],
+    "location": "Kanaren",
+    "sourceUrl": "https://www.tvdigital.de/tv-programm/das-perfekte-dinner-tag-5-jessica-kiel/bid_202698837/"
+  },
+  {
+    "id": "tvdigital-s14e15-20260605",
+    "title": "Peggy und Steff: Junggesellenabschied + Stachorskis: Mamas Abschied von der Familie",
+    "firstAirDate": "2026-06-05",
+    "season": 14,
+    "episode": 15,
+    "status": "uncertain",
+    "description": "Als S14 E15 im VOX-Programm vom 05.06.2026 genannt. Detaillierter Originaltext und Erstausstrahlung noch nicht überprüft.",
+    "people": [
+      "Peggy und Steff",
+      "Familie Stachorski"
+    ],
+    "location": "Mallorca, Gran Canaria",
+    "sourceUrl": "https://www.tvdigital.de/tv-programm/goodbye-deutschland-die-auswanderer/bid_203200361/"
+  },
+  {
+    "id": "tvdigital-s12e37-20260522",
+    "title": "Abenteuer Orient – Ein Lackierer für Dubai",
+    "firstAirDate": "2026-05-22",
+    "season": 12,
+    "episode": 37,
+    "status": "repeat",
+    "description": "VOX-Sendetermin 22.05.2026 mit Kennung S12 E37. Familie Schramm versucht in Dubai Fuß zu fassen; Melanie Aussem arbeitet in Abu Dhabi an einer deutschen Schule. Die ältere Staffelkennung spricht für Archivmaterial, die Originalpremiere ist noch zu ermitteln.",
+    "people": [
+      "Familie Schramm",
+      "Melanie Aussem"
+    ],
+    "location": "Dubai, Abu Dhabi",
+    "sourceUrl": "https://www.tvdigital.de/tv-programm/goodbye-deutschland-die-auswanderer-abenteuer-orient-ein-lackierer-fuer-dubai/bid_202792623/"
+  },
+  {
+    "id": "tvdigital-s6e1-20260608",
+    "title": "Vom Auswanderertraum zur Obdachlosigkeit",
+    "firstAirDate": "2026-06-08",
+    "season": 6,
+    "episode": 1,
+    "status": "repeat",
+    "description": "Produktion von 2015, im Juni 2026 bei RTL Living wiederholt. Bernd und Ralph leben auf Mallorca ohne Wohnung, während Tommy und Noemi in Los Angeles finanzielle Schwierigkeiten haben.",
+    "people": [
+      "Bernd",
+      "Ralph",
+      "Tommy",
+      "Noemi"
+    ],
+    "location": "Mallorca, Los Angeles",
+    "sourceUrl": "https://www.tvdigital.de/tv-programm/goodbye-deutschland-die-auswanderer-vom-auswanderertraum-zur-obdachlosigkeit/bid_203111216/"
   }
 ]
