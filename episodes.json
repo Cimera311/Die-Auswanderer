@@ -1,1 +1,110 @@
-[]
+[
+  {
+    "id": "tvdigital-s14e10-20260424",
+    "title": "Spanien: Sabine Ninnemann / Mallorca: Robens, Peggy und Steff",
+    "firstAirDate": "2026-04-24",
+    "season": 14,
+    "episode": 10,
+    "status": "uncertain",
+    "description": "Sabine Ninnemann wagt einen Neustart in Spanien. Auf Mallorca kämpfen die Robens mit Konkurrenz und Peggy und Steff mit den Kosten ihrer Hochzeit. TV-Termin 24.04.2026; Erstausstrahlung noch nicht unabhängig gesichert.",
+    "people": [
+      "Sabine Ninnemann",
+      "Caro und Andreas Robens",
+      "Peggy und Steff"
+    ],
+    "location": "Spanien, Mallorca",
+    "sourceUrl": "https://www.tvdigital.de/tv-programm/goodbye-deutschland-die-auswanderer/bid_202673785/"
+  },
+  {
+    "id": "tvdigital-s14e12-20260501",
+    "title": "Auswanderer-Kids: Jetzt reden wir! (2)",
+    "firstAirDate": "2026-05-01",
+    "season": 14,
+    "episode": 12,
+    "status": "uncertain",
+    "description": "Kiana Gülpen auf Mallorca will Veränderungen; Aaron Heidtke beschäftigt sich in Südafrika mit Schulregeln. TV-Termin 01.05.2026; Originalpremiere nicht unabhängig gesichert.",
+    "people": [
+      "Kiana Gülpen",
+      "Aaron Heidtke"
+    ],
+    "location": "Mallorca, Südafrika",
+    "sourceUrl": "https://www.tvdigital.de/tv-programm/goodbye-deutschland-die-auswanderer-auswanderer-kids-jetzt-reden-wir-2/bid_202982536/"
+  },
+  {
+    "id": "tvdigital-s14e11-20260508",
+    "title": "Kenia: Kinderwunsch bei Kai + Sansibar: Jennys Tierrettungsstation",
+    "firstAirDate": "2026-05-08",
+    "season": 14,
+    "episode": 11,
+    "status": "uncertain",
+    "description": "Kai Kron und Emily versuchen in Kenia ihren Kinderwunsch zu verwirklichen. Jenny Amann kämpft auf Sansibar um ihre Tierauffangstation Cheetahs Rock. TV-Termin 08.05.2026; Originalpremiere nicht unabhängig gesichert.",
+    "people": [
+      "Kai Kron",
+      "Emily",
+      "Jenny Amann"
+    ],
+    "location": "Kenia, Sansibar",
+    "sourceUrl": "https://www.tvdigital.de/tv-programm/goodbye-deutschland-die-auswanderer-kenia-kinderwunsch-bei-kai-sansibar-drama-um-jennys-tierrettungsstation/bid_203164324/"
+  },
+  {
+    "id": "tvdigital-s14e14-20260529",
+    "title": "Mallorca: Alex Jolig + Dubai: Familien Schramm und Mostegl",
+    "firstAirDate": "2026-05-29",
+    "season": 14,
+    "episode": 14,
+    "status": "uncertain",
+    "description": "Die Schramms kämpfen in Dubai mit finanziellen Problemen, bei den Mostegls hakt die Bäckerei-Expansion, und Alex und Britt Jolig stehen vor einem Millionen-Deal. TV-Termin 29.05.2026; Originalpremiere nicht unabhängig gesichert.",
+    "people": [
+      "Familie Schramm",
+      "Familie Mostegl",
+      "Alex und Britt Jolig"
+    ],
+    "location": "Dubai, Mallorca",
+    "sourceUrl": "https://www.tvdigital.de/tv-programm/goodbye-deutschland-die-auswanderer/bid_202896839/"
+  },
+  {
+    "id": "tvdirekt-s13e34-20251024",
+    "title": "Tobago: Elisabeth Malle / Jamaika: Silvia Sergeant",
+    "firstAirDate": "2025-10-24",
+    "season": 13,
+    "episode": 34,
+    "status": "repeat",
+    "description": "Programmarchiv nennt für die Sendung am 24.10.2025 das Produktionsjahr 2015. Elisabeth Malle reist nach Tobago, Silvia Sergeant kämpft in Jamaika mit privaten und wirtschaftlichen Problemen. Somit keine sicher neue Produktion 2025.",
+    "people": [
+      "Elisabeth Malle",
+      "Silvia Sergeant"
+    ],
+    "location": "Tobago, Jamaika",
+    "sourceUrl": "https://m.tvdirekt.de/sendungsdetails/199722897/goodbye-deutschland-die-auswanderer.html"
+  },
+  {
+    "id": "tvdirekt-s13e36-20251107",
+    "title": "Mallorca: Milliarden-Mike und Heidi",
+    "firstAirDate": "2025-11-07",
+    "season": 13,
+    "episode": 36,
+    "status": "uncertain",
+    "description": "TV Direkt dokumentiert die Kennung S13 E36 für den Ableger „Liebe bis ans Ende der Welt“, Sendetermin 07.11.2025. Nicht ohne weitere Prüfung als Folge der Hauptserie einordnen.",
+    "people": [
+      "Mike Wappler",
+      "Heidi"
+    ],
+    "location": "Mallorca",
+    "sourceUrl": "https://m.tvdirekt.de/sendungsdetails/199904500/goodbye-deutschland-liebe-bis-ans-ende-der-welt.html"
+  },
+  {
+    "id": "tvdirekt-s13e18-20261009",
+    "title": "Sansibar: Franzi Schmidt / Costa Rica: Martina Franz",
+    "firstAirDate": "2026-10-09",
+    "season": 13,
+    "episode": 18,
+    "status": "repeat",
+    "description": "Ausstrahlung 09.10.2026; Produktionsjahr laut TV Direkt 2025. Es handelt sich daher um älteres Material, obwohl der TV-Termin 2026 ist. Programm benennt als Originalformat „Liebe bis ans Ende der Welt“.",
+    "people": [
+      "Franzi Schmidt",
+      "Martina Franz"
+    ],
+    "location": "Sansibar, Costa Rica",
+    "sourceUrl": "https://tvdirekt.dcmepgsued.de/tv-programm/sendungsdetails/205242810/goodbye-deutschland-die-auswanderer.html"
+  }
+]
