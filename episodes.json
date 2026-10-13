@@ -165,5 +165,143 @@
     ],
     "location": "Mallorca, Los Angeles",
     "sourceUrl": "https://www.tvdigital.de/tv-programm/goodbye-deutschland-die-auswanderer-vom-auswanderertraum-zur-obdachlosigkeit/bid_203111216/"
+  },
+  {
+    "id": "tvdigital-s7e16-20260504",
+    "title": "Nicht ohne mein Kind",
+    "firstAirDate": "2026-05-04",
+    "season": 7,
+    "episode": 16,
+    "status": "uncertain",
+    "description": "Programmbeschreibung: Familie Luckan vermietet Wohnmobile in Florida, Lee Lerma sucht den Kontakt zu ihrem Sohn, und Diana und Nina Gregor erleben Naturgewalten. Datum ist ein dokumentierter Sendetermin, keine verifizierte Erstausstrahlung.",
+    "people": [
+      "Familie Luckan",
+      "Lee Lerma",
+      "Diana Gregor",
+      "Nina Gregor"
+    ],
+    "location": "Florida",
+    "sourceUrl": "https://www.tvdigital.de/tv-programm/goodbye-deutschland-die-auswanderer-nicht-ohne-mein-kind/bid_202577292/"
+  },
+  {
+    "id": "tvdigital-s12e2-20260601",
+    "title": "Aufbruch und Turbulenzen",
+    "firstAirDate": "2026-06-01",
+    "season": 12,
+    "episode": 2,
+    "status": "uncertain",
+    "description": "TV Digital nennt S12 E02 zum VOX-Sendetermin am 01.06.2026, 22:20 Uhr. Detailbeschreibung und Erstausstrahlung nicht unabhängig belegt.",
+    "people": [],
+    "location": "",
+    "sourceUrl": "https://www.tvdigital.de/tv-programm/goodbye-deutschland-die-auswanderer/bid_203200361/"
+  },
+  {
+    "id": "tvdigital-s10e23-20260629",
+    "title": "Liebe bis ans Ende der Welt – Zwei Hochzeiten",
+    "firstAirDate": "2026-06-29",
+    "season": 10,
+    "episode": 23,
+    "status": "uncertain",
+    "description": "VOX-Sendetermin 29.06.2026, 20:15 Uhr. Eintrag thematisch mit Liebe-bis-ans-Ende-der-Welt-Ableger verbunden; Zuordnung zur Hauptserie noch offen.",
+    "people": [],
+    "location": "",
+    "sourceUrl": "https://www.tvdigital.de/tv-programm/goodbye-deutschland-die-auswanderer/"
+  },
+  {
+    "id": "tvdigital-s6e17-20260629",
+    "title": "Auswanderung gescheitert?",
+    "firstAirDate": "2026-06-29",
+    "season": 6,
+    "episode": 17,
+    "status": "uncertain",
+    "description": "VOX-Sendetermin 29.06.2026, 22:15 Uhr. Erstausstrahlung und individuelle Inhaltsdetails nicht geprüft.",
+    "people": [],
+    "location": "",
+    "sourceUrl": "https://www.tvdigital.de/tv-programm/goodbye-deutschland-die-auswanderer/"
+  },
+  {
+    "id": "tvdigital-s7e5-20260628",
+    "title": "Heute u. a. mit: Ingrid Roes, Florida",
+    "firstAirDate": "2026-06-28",
+    "season": 7,
+    "episode": 5,
+    "status": "repeat",
+    "description": "RTL Living führte die Folge am 28.06.2026 und erneut am 29.06.2026. Als Wiederholung im Sendeplan erkennbar; historisches Originaldatum nicht festgestellt.",
+    "people": [
+      "Ingrid Roes"
+    ],
+    "location": "Florida",
+    "sourceUrl": "https://www.tvdigital.de/tv-programm/goodbye-deutschland-die-auswanderer/"
+  },
+  {
+    "id": "tvdigital-s13e21-20250630",
+    "title": "Florida: Familie Betz und Maik Bischoff",
+    "firstAirDate": "2025-06-30",
+    "season": 13,
+    "episode": 21,
+    "status": "uncertain",
+    "description": "VOX-Ausstrahlung am 30.06.2025, 20:15 Uhr. Originalpremiere und genaue Inhaltsbeschreibung noch unbestätigt.",
+    "people": [
+      "Familie Betz",
+      "Maik Bischoff"
+    ],
+    "location": "Florida",
+    "sourceUrl": "https://www.tvdigital.de/tv-programm/goodbye-deutschland-die-auswanderer-kanada-alexander-und-melanie/bid_197616912/"
+  },
+  {
+    "id": "tvdigital-s13e25-20250707",
+    "title": "Dénia: Ehepaar Hoss und Lappland: Familie Conrad",
+    "firstAirDate": "2025-07-07",
+    "season": 13,
+    "episode": 25,
+    "status": "uncertain",
+    "description": "VOX-Sendetermin 07.07.2025, 20:15 Uhr. Erstausstrahlung unbestätigt.",
+    "people": [
+      "Ehepaar Hoss",
+      "Familie Conrad"
+    ],
+    "location": "Dénia, Lappland",
+    "sourceUrl": "https://www.tvdigital.de/tv-programm/goodbye-deutschland-die-auswanderer-andreas-peuler-in-australien/bid_197711842/"
+  },
+  {
+    "id": "tvdigital-s6e13-20250707",
+    "title": "Am anderen Ende der Welt",
+    "firstAirDate": "2025-07-07",
+    "season": 6,
+    "episode": 13,
+    "status": "uncertain",
+    "description": "VOX-Sendetermin 07.07.2025, 22:15 Uhr. Originalpremiere unbestätigt.",
+    "people": [],
+    "location": "",
+    "sourceUrl": "https://www.tvdigital.de/tv-programm/goodbye-deutschland-die-auswanderer-andreas-peuler-in-australien/bid_197711842/"
+  },
+  {
+    "id": "tvdigital-s17e8-20250623",
+    "title": "Andreas Peuler in Australien",
+    "firstAirDate": "2025-06-23",
+    "season": 17,
+    "episode": 8,
+    "status": "uncertain",
+    "description": "TV Digital listet S17 E08 für die VOX-Ausstrahlung am 23.06.2025 um 23:05. Produktions- und Erstausstrahlungsjahr nicht gesichert.",
+    "people": [
+      "Andreas Peuler"
+    ],
+    "location": "Australien",
+    "sourceUrl": "https://www.tvdigital.de/tv-programm/goodbye-deutschland-die-auswanderer-andreas-peuler-in-australien/bid_197711842/"
+  },
+  {
+    "id": "tvdigital-s7e28-20261004",
+    "title": "Der große Traum von Thailand",
+    "firstAirDate": "2026-10-04",
+    "season": 7,
+    "episode": 28,
+    "status": "repeat",
+    "description": "RTL Living sendete die Folge am 04.10. und 06.10.2026; laut Programmbeschreibung ist Matthias Bück mit Hania seit Jahren auf Koh Samui und betreibt eine Bar. Die angezeigte Produktionsangabe 2025 belegt keine Premiere.",
+    "people": [
+      "Matthias Bück",
+      "Hania"
+    ],
+    "location": "Thailand, Koh Samui",
+    "sourceUrl": "https://epg-sued-www.tvdirekt.de/tv-programm/sendungsdetails/204738345/goodbye-deutschland-die-auswanderer.html"
   }
 ]
