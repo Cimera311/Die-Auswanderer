@@ -214,10 +214,14 @@
     "season": 6,
     "episode": 17,
     "status": "uncertain",
-    "description": "VOX-Sendetermin 29.06.2026, 22:15 Uhr. Erstausstrahlung und individuelle Inhaltsdetails nicht geprüft.",
-    "people": [],
-    "location": "",
-    "sourceUrl": "https://www.tvdigital.de/tv-programm/goodbye-deutschland-die-auswanderer/"
+    "description": "Sarah Held und ihre Familie kämpfen nach dem Umzug nach Vinaròs bei Valencia; Sonja Inselmann zieht zu Dieter nach Marbella. Staffel/Folge/Titel direkt im TV-Digital-Programm verzeichnet.",
+    "people": [
+      "Sarah Held",
+      "Sonja Inselmann",
+      "Dieter"
+    ],
+    "location": "Vinaròs, Marbella",
+    "sourceUrl": "https://www.tvdigital.de/tv-programm/goodbye-deutschland-die-auswanderer-auswanderung-gescheitert/bid_203693921/"
   },
   {
     "id": "tvdigital-s7e5-20260628",
@@ -420,5 +424,29 @@
     "location": "Kanada",
     "sourceUrl": "https://www.tvdigital.de/tv-programm/goodbye-deutschland-die-auswanderer-kanada-alexander-und-melanie/bid_197616912/",
     "firstAirDate": "2025-06-16"
+  },
+  {
+    "id": "tvdigital-s7e7-schimke",
+    "season": 7,
+    "episode": 7,
+    "title": "Familie Schimke: Leben am Polarkreis",
+    "status": "uncertain",
+    "description": "Titel und Kennung S07 E07 in TV-Digital-Programm-Querverweisen dokumentiert. Weitere Inhaltsdetails sind noch zu prüfen.",
+    "people": [
+      "Familie Schimke"
+    ],
+    "location": "Polarkreis",
+    "sourceUrl": "https://www.tvdigital.de/tv-programm/goodbye-deutschland-die-auswanderer-auswanderung-gescheitert/bid_203693921/"
+  },
+  {
+    "id": "tvdigital-s5e57-cote-dazur",
+    "season": 5,
+    "episode": 57,
+    "title": "Cote d'Azur",
+    "status": "uncertain",
+    "description": "Kennung S05 E57 und Titel als Folgesendung in TV Digital aufgeführt. Weitere Inhalte noch ungeprüft.",
+    "people": [],
+    "location": "Côte d’Azur",
+    "sourceUrl": "https://www.tvdigital.de/tv-programm/goodbye-deutschland-die-auswanderer-auswandern-aus-liebe/bid_203693868/"
   }
 ]
